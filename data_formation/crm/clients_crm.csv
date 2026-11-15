@@ -1,0 +1,309 @@
+code_client;nom_client;wilaya;type_client;date_creation;telephone;email
+C0001;client 1 sarl;ALGER;GROSSISTE;2021-02-21;0545955962;contact1@exemple.dz
+C0002;client 2 sarl;SETIF;Détaillant;2020-08-02;0539506682;contact2@exemple.dz
+C0003;ETS CLIENT 3;Alger ;Détaillant ;2023-10-21;0598459900;contact3@exemple.dz
+C0004;client 4 sarl;béjaia ;grossiste ;2021-12-23;0580284073;contact4@exemple.dz
+C0005;client 5 sarl;BEJAIA;Détaillant ;2023-07-09;0545150085;
+C0006;ETS CLIENT 6;Sétif;detaillant;2023-08-31;0585154977;contact6@exemple.dz
+C0007;client 7 sarl;alger;Détaillant;2022-11-26;;contact7@exemple.dz
+C0008;client 8 sarl;SETIF;restaurant;2022-07-19;0524106579;contact8@exemple.dz
+C0009;ETS CLIENT 9;Setif;detaillant;2022-01-28;;contact9@exemple.dz
+C0010;client 10 sarl;constantine;Grossiste;2022-04-05;0561648667;contact10@exemple.dz
+C0011;client 11 sarl;CONSTANTINE;detaillant;2023-09-03;0577628511;contact11@exemple.dz
+C0012;ETS CLIENT 12;béjaia ;detaillant;2023-10-19;0577513883;contact12@exemple.dz
+C0013;client 13 sarl;constantine;detaillant;2021-09-30;0512157539;
+C0014;client 14 sarl;oran;Détaillant ;2024-02-09;0577273178;contact14@exemple.dz
+C0015;ETS CLIENT 15;SETIF;detaillant;2019-02-13;0519725122;contact15@exemple.dz
+C0016;client 16 sarl;Sétif;Détaillant ;2021-08-25;0524901888;contact16@exemple.dz
+C0017;client 17 sarl;Setif;detaillant;2023-02-20;0537533980;
+C0018;ETS CLIENT 18;constantine;restaurant;2022-08-28;0548451369;contact18@exemple.dz
+C0019;client 19 sarl;Alger ;Détaillant;2021-06-13;0564850074;contact19@exemple.dz
+C0020;client 20 sarl;Sétif;Détaillant;2024-07-19;0531136160;contact20@exemple.dz
+C0021;ETS CLIENT 21;ORAN;Détaillant ;2019-05-26;0574638717;contact21@exemple.dz
+C0022;client 22 sarl;BEJAIA;detaillant;2019-06-25;0549974106;contact22@exemple.dz
+C0023;client 23 sarl;Setif;Détaillant;2021-10-23;0539487035;contact23@exemple.dz
+C0024;ETS CLIENT 24;ALGER;grossiste ;2022-09-01;0586371665;contact24@exemple.dz
+C0025;client 25 sarl;ORAN;Grossiste;2021-06-21;0598435186;
+C0026;client 26 sarl;béjaia ;detaillant;2023-09-05;0575617115;
+C0027;ETS CLIENT 27;Sétif;Détaillant ;2022-11-18;0579893575;contact27@exemple.dz
+C0028;client 28 sarl;oran;Détaillant ;2021-07-29;0523756326;
+C0029;client 29 sarl;Setif;grossiste ;2020-09-24;0547408217;contact29@exemple.dz
+C0030;ETS CLIENT 30;Alger ;Détaillant;2023-07-08;;contact30@exemple.dz
+C0031;client 31 sarl;Setif;Détaillant ;2021-12-15;0524671523;contact31@exemple.dz
+C0032;client 32 sarl;Alger;Restaurant;2024-01-23;0594665254;contact32@exemple.dz
+C0033;ETS CLIENT 33;Sétif;Restaurant;2020-03-25;0538202500;contact33@exemple.dz
+C0034;client 34 sarl;béjaia ;detaillant;2023-08-09;0533619217;contact34@exemple.dz
+C0035;client 35 sarl;ALGER;detaillant;2023-03-31;0533772311;contact35@exemple.dz
+C0036;ETS CLIENT 36;béjaia ;GROSSISTE;2022-03-26;0543214489;contact36@exemple.dz
+C0037;client 37 sarl;Béjaïa;Détaillant ;2024-09-23;0567798288;contact37@exemple.dz
+C0038;client 38 sarl;Sétif;detaillant;2023-05-13;0589233722;
+C0039;ETS CLIENT 39;Alger;Grossiste;2024-08-01;0581177829;contact39@exemple.dz
+C0040;client 40 sarl;Alger ;Détaillant ;2023-04-10;0592601486;contact40@exemple.dz
+C0041;client 41 sarl;SETIF;GROSSISTE;2020-10-01;0524802886;contact41@exemple.dz
+C0042;ETS CLIENT 42;CONSTANTINE;Détaillant;2021-04-23;;contact42@exemple.dz
+C0043;client 43 sarl;Alger;Détaillant;2024-05-01;0549646050;contact43@exemple.dz
+C0044;client 44 sarl;ALGER;Restaurant;2019-02-16;0577183053;contact44@exemple.dz
+C0045;ETS CLIENT 45;ALGER;Détaillant ;2024-07-04;0511621155;contact45@exemple.dz
+C0046;client 46 sarl;Béjaïa;Détaillant ;2024-09-20;0584563393;
+C0047;client 47 sarl;SETIF;detaillant;2024-01-22;0511112876;
+C0048;ETS CLIENT 48;Oran;GROSSISTE;2021-10-25;0563789357;
+C0049;client 49 sarl;alger;Restaurant;2023-02-20;0557297664;contact49@exemple.dz
+C0050;client 50 sarl;SETIF;restaurant;2020-10-18;0533517209;contact50@exemple.dz
+C0051;ETS CLIENT 51;CONSTANTINE;detaillant;2020-02-02;0522511315;contact51@exemple.dz
+C0052;client 52 sarl;Setif;GROSSISTE;2020-07-05;0524712259;contact52@exemple.dz
+C0053;client 53 sarl;Oran;GROSSISTE;2024-05-22;0574875924;contact53@exemple.dz
+C0054;ETS CLIENT 54;Constantine;Restaurant;2021-05-28;0528802021;contact54@exemple.dz
+C0055;client 55 sarl;BEJAIA;GROSSISTE;2023-04-25;0583290870;contact55@exemple.dz
+C0056;client 56 sarl;SETIF;Grossiste;2022-06-25;0588305876;contact56@exemple.dz
+C0057;ETS CLIENT 57;oran;Détaillant;2024-12-14;0535485655;contact57@exemple.dz
+C0058;client 58 sarl;oran;Détaillant;2022-02-13;0582428875;contact58@exemple.dz
+C0059;client 59 sarl;Alger ;Détaillant ;2021-09-01;0581746960;contact59@exemple.dz
+C0060;ETS CLIENT 60;SETIF;detaillant;2021-04-20;0561593049;contact60@exemple.dz
+C0061;client 61 sarl;SETIF;detaillant;2023-01-22;0554505388;contact61@exemple.dz
+C0062;client 62 sarl;ALGER;Détaillant ;2019-06-21;0537643962;
+C0063;ETS CLIENT 63;Bejaia;restaurant;2024-10-22;0514442879;contact63@exemple.dz
+C0064;client 64 sarl;Alger ;detaillant;2024-11-27;0549872300;contact64@exemple.dz
+C0065;client 65 sarl;CONSTANTINE;Détaillant;2019-08-11;0589772847;contact65@exemple.dz
+C0066;ETS CLIENT 66;Bejaia;GROSSISTE;2019-02-04;0525816411;contact66@exemple.dz
+C0067;client 67 sarl;BEJAIA;Détaillant ;2024-04-19;0580992217;contact67@exemple.dz
+C0068;client 68 sarl;Alger;Détaillant ;2024-07-16;0563718396;contact68@exemple.dz
+C0069;ETS CLIENT 69;béjaia ;Détaillant;2021-10-10;0538686858;contact69@exemple.dz
+C0070;client 70 sarl;ALGER;Détaillant;2019-03-11;0554789635;contact70@exemple.dz
+C0071;client 71 sarl;Constantine;restaurant;2019-08-14;0515669452;contact71@exemple.dz
+C0072;ETS CLIENT 72;alger;grossiste ;2022-01-16;0562959539;contact72@exemple.dz
+C0073;client 73 sarl;SETIF;Détaillant ;2024-09-11;0598465955;contact73@exemple.dz
+C0074;client 74 sarl;Alger ;detaillant;2023-09-25;0556432348;contact74@exemple.dz
+C0075;ETS CLIENT 75;Setif;detaillant;2019-03-07;0514177166;contact75@exemple.dz
+C0076;client 76 sarl;Bejaia;Grossiste;2022-12-30;0518948585;contact76@exemple.dz
+C0077;client 77 sarl;oran;restaurant;2023-11-17;0546173719;contact77@exemple.dz
+C0078;ETS CLIENT 78;ALGER;Détaillant;2023-04-02;;contact78@exemple.dz
+C0079;client 79 sarl;béjaia ;Détaillant ;2021-08-17;;contact79@exemple.dz
+C0080;client 80 sarl;Oran;GROSSISTE;2019-08-03;0541992247;contact80@exemple.dz
+C0081;ETS CLIENT 81;Sétif;Restaurant;2023-05-31;0547218216;
+C0082;client 82 sarl;Alger ;Détaillant ;2024-03-15;;contact82@exemple.dz
+C0083;client 83 sarl;Alger;restaurant;2022-04-17;0566811496;contact83@exemple.dz
+C0084;ETS CLIENT 84;Oran;detaillant;2022-11-30;0560450253;contact84@exemple.dz
+C0085;client 85 sarl;alger;detaillant;2019-08-10;0564496860;contact85@exemple.dz
+C0086;client 86 sarl;BEJAIA;GROSSISTE;2024-09-02;0563280899;contact86@exemple.dz
+C0087;ETS CLIENT 87;Constantine;Détaillant;2021-02-25;0577240657;
+C0088;client 88 sarl;Béjaïa;Détaillant ;2024-12-29;0535872789;contact88@exemple.dz
+C0089;client 89 sarl;béjaia ;GROSSISTE;2019-12-05;;contact89@exemple.dz
+C0090;ETS CLIENT 90;alger;Détaillant;2023-07-19;0571807596;contact90@exemple.dz
+C0091;client 91 sarl;BEJAIA;Détaillant;2023-07-12;0517429924;
+C0092;client 92 sarl;Alger ;detaillant;2023-11-07;0575538018;contact92@exemple.dz
+C0093;ETS CLIENT 93;Setif;GROSSISTE;2020-08-16;0550924235;contact93@exemple.dz
+C0094;client 94 sarl;Constantine;Restaurant;2024-10-15;0595914718;
+C0095;client 95 sarl;constantine;Détaillant;2021-06-21;0514636019;contact95@exemple.dz
+C0096;ETS CLIENT 96;béjaia ;Restaurant;2023-05-02;0521713272;contact96@exemple.dz
+C0097;client 97 sarl;oran;Restaurant;2019-06-30;0532167337;contact97@exemple.dz
+C0098;client 98 sarl;Bejaia;Restaurant;2022-09-07;0567409637;contact98@exemple.dz
+C0099;ETS CLIENT 99;Oran;detaillant;2020-07-15;0592610580;contact99@exemple.dz
+C0100;client 100 sarl;ALGER;Restaurant;2022-03-05;0518497768;contact100@exemple.dz
+C0101;client 101 sarl;ORAN;detaillant;2023-06-10;0584376701;contact101@exemple.dz
+C0102;ETS CLIENT 102;oran;detaillant;2022-02-24;0569732534;contact102@exemple.dz
+C0103;client 103 sarl;ORAN;Grossiste;2019-06-04;0536312109;contact103@exemple.dz
+C0104;client 104 sarl;constantine;Détaillant ;2022-11-08;0576919088;contact104@exemple.dz
+C0105;ETS CLIENT 105;ALGER;Grossiste;2021-03-02;0545286379;
+C0106;client 106 sarl;SETIF;Restaurant;2022-10-06;0556746115;contact106@exemple.dz
+C0107;client 107 sarl;oran;Grossiste;2023-02-18;0562544894;contact107@exemple.dz
+C0108;ETS CLIENT 108;Béjaïa;Détaillant;2019-01-04;0527759706;contact108@exemple.dz
+C0109;client 109 sarl;SETIF;restaurant;2020-09-05;0559465007;contact109@exemple.dz
+C0110;client 110 sarl;Alger ;grossiste ;2019-11-25;0568418360;contact110@exemple.dz
+C0111;ETS CLIENT 111;Béjaïa;Détaillant;2023-03-02;0525679937;contact111@exemple.dz
+C0112;client 112 sarl;Sétif;Détaillant ;2021-07-05;0534966876;contact112@exemple.dz
+C0113;client 113 sarl;ALGER;Détaillant;2019-08-08;0538719659;
+C0114;ETS CLIENT 114;Sétif;detaillant;2020-09-24;0527114493;contact114@exemple.dz
+C0115;client 115 sarl;SETIF;restaurant;2024-10-03;0597127822;contact115@exemple.dz
+C0116;client 116 sarl;Alger;Détaillant ;2023-01-23;0510291976;contact116@exemple.dz
+C0117;ETS CLIENT 117;constantine;detaillant;2021-05-18;0516417931;contact117@exemple.dz
+C0118;client 118 sarl;Bejaia;Détaillant ;2024-12-19;0577243526;contact118@exemple.dz
+C0119;client 119 sarl;Alger ;Grossiste;2023-01-21;0598958145;
+C0120;ETS CLIENT 120;Alger;grossiste ;2020-08-07;0545339200;contact120@exemple.dz
+C0121;client 121 sarl;Oran;restaurant;2019-12-17;0518512788;contact121@exemple.dz
+C0122;client 122 sarl;SETIF;detaillant;2023-11-19;0560226621;contact122@exemple.dz
+C0123;ETS CLIENT 123;Bejaia;Restaurant;2020-11-12;0596374580;contact123@exemple.dz
+C0124;client 124 sarl;oran;Détaillant ;2021-03-28;0563591231;contact124@exemple.dz
+C0125;client 125 sarl;Oran;GROSSISTE;2020-07-09;0571476701;contact125@exemple.dz
+C0126;ETS CLIENT 126;Oran;Détaillant;2023-05-12;0586179977;contact126@exemple.dz
+C0127;client 127 sarl;Bejaia;detaillant;2019-11-17;0567773042;contact127@exemple.dz
+C0128;client 128 sarl;béjaia ;GROSSISTE;2019-07-15;0579972632;contact128@exemple.dz
+C0129;ETS CLIENT 129;constantine;detaillant;2022-07-11;0591311985;contact129@exemple.dz
+C0130;client 130 sarl;ORAN;Détaillant ;2022-10-04;0543299418;contact130@exemple.dz
+C0131;client 131 sarl;béjaia ;detaillant;2022-11-03;0519779693;contact131@exemple.dz
+C0132;ETS CLIENT 132;Sétif;Détaillant;2022-02-19;0592508784;contact132@exemple.dz
+C0133;client 133 sarl;Alger ;Restaurant;2020-06-29;0590136333;contact133@exemple.dz
+C0134;client 134 sarl;alger;Détaillant;2023-12-29;0577143325;contact134@exemple.dz
+C0135;ETS CLIENT 135;Bejaia;detaillant;2024-11-26;0566983238;contact135@exemple.dz
+C0136;client 136 sarl;alger;restaurant;2019-09-18;0545751009;contact136@exemple.dz
+C0137;client 137 sarl;ALGER;detaillant;2020-11-08;0579563782;contact137@exemple.dz
+C0138;ETS CLIENT 138;constantine;Détaillant ;2022-02-21;0547242349;contact138@exemple.dz
+C0139;client 139 sarl;Setif;Détaillant;2021-07-07;0572919308;contact139@exemple.dz
+C0140;client 140 sarl;béjaia ;Grossiste;2024-03-14;0543437653;contact140@exemple.dz
+C0141;ETS CLIENT 141;Alger ;detaillant;2024-10-24;;contact141@exemple.dz
+C0142;client 142 sarl;alger;restaurant;2023-03-09;0565811051;contact142@exemple.dz
+C0143;client 143 sarl;Setif;restaurant;2021-05-25;0593836353;contact143@exemple.dz
+C0144;ETS CLIENT 144;Sétif;detaillant;2019-12-20;0555117330;contact144@exemple.dz
+C0145;client 145 sarl;alger;Détaillant ;2023-07-02;0527595184;contact145@exemple.dz
+C0146;client 146 sarl;Alger ;Détaillant ;2024-02-21;0565415922;contact146@exemple.dz
+C0147;ETS CLIENT 147;Setif;restaurant;2024-10-19;0561973252;contact147@exemple.dz
+C0148;client 148 sarl;Constantine;restaurant;2020-05-23;0576383092;contact148@exemple.dz
+C0149;client 149 sarl;SETIF;detaillant;2022-10-01;0597370593;
+C0150;ETS CLIENT 150;CONSTANTINE;Restaurant;2019-06-12;0522692547;
+C0151;client 151 sarl;BEJAIA;Détaillant;2024-09-26;0575913365;contact151@exemple.dz
+C0152;client 152 sarl;Béjaïa;restaurant;2019-07-06;0518677843;contact152@exemple.dz
+C0153;ETS CLIENT 153;Oran;Grossiste;2023-10-05;0595603841;contact153@exemple.dz
+C0154;client 154 sarl;Sétif;restaurant;2023-09-22;0586208706;contact154@exemple.dz
+C0155;client 155 sarl;Alger;detaillant;2021-10-08;;contact155@exemple.dz
+C0156;ETS CLIENT 156;Alger;grossiste ;2024-01-23;0591818947;contact156@exemple.dz
+C0157;client 157 sarl;Alger ;Détaillant ;2019-05-15;;contact157@exemple.dz
+C0158;client 158 sarl;SETIF;grossiste ;2024-04-21;0593946208;contact158@exemple.dz
+C0159;ETS CLIENT 159;alger;Détaillant;2021-03-01;;
+C0160;client 160 sarl;Alger ;Détaillant;2023-07-18;0532675147;contact160@exemple.dz
+C0161;client 161 sarl;oran;detaillant;2019-10-01;0555371996;contact161@exemple.dz
+C0162;ETS CLIENT 162;CONSTANTINE;Restaurant;2024-05-20;0528931693;contact162@exemple.dz
+C0163;client 163 sarl;Constantine;detaillant;2019-12-05;0585817836;contact163@exemple.dz
+C0164;client 164 sarl;Alger;grossiste ;2024-08-02;0541763289;contact164@exemple.dz
+C0165;ETS CLIENT 165;BEJAIA;detaillant;2020-10-13;0594227485;
+C0166;client 166 sarl;Bejaia;Détaillant;2022-03-27;0579649417;
+C0167;client 167 sarl;alger;grossiste ;2023-02-22;;contact167@exemple.dz
+C0168;ETS CLIENT 168;Bejaia;detaillant;2022-10-22;0563308631;contact168@exemple.dz
+C0169;client 169 sarl;Béjaïa;detaillant;2022-05-11;0570332662;contact169@exemple.dz
+C0170;client 170 sarl;alger;restaurant;2024-09-28;0542502767;
+C0171;ETS CLIENT 171;CONSTANTINE;Restaurant;2022-08-18;0555823155;contact171@exemple.dz
+C0172;client 172 sarl;Bejaia;GROSSISTE;2022-02-05;0532186837;contact172@exemple.dz
+C0173;client 173 sarl;BEJAIA;Détaillant ;2019-06-12;;
+C0174;ETS CLIENT 174;CONSTANTINE;restaurant;2020-06-13;0522618957;contact174@exemple.dz
+C0175;client 175 sarl;Setif;Détaillant;2021-10-05;0553738379;contact175@exemple.dz
+C0176;client 176 sarl;oran;restaurant;2024-08-26;0517238773;contact176@exemple.dz
+C0177;ETS CLIENT 177;ALGER;Détaillant;2022-02-23;0519968694;contact177@exemple.dz
+C0178;client 178 sarl;Constantine;Détaillant ;2019-04-22;0570239918;contact178@exemple.dz
+C0179;client 179 sarl;constantine;Détaillant;2020-04-02;;contact179@exemple.dz
+C0180;ETS CLIENT 180;Sétif;detaillant;2022-07-07;0552108255;
+C0181;client 181 sarl;constantine;restaurant;2019-11-09;0568747549;
+C0182;client 182 sarl;ALGER;Détaillant ;2024-08-06;;contact182@exemple.dz
+C0183;ETS CLIENT 183;Alger;detaillant;2020-03-25;;contact183@exemple.dz
+C0184;client 184 sarl;oran;Détaillant ;2023-06-26;0578891707;contact184@exemple.dz
+C0185;client 185 sarl;Sétif;detaillant;2023-07-16;0528454143;contact185@exemple.dz
+C0186;ETS CLIENT 186;BEJAIA;detaillant;2022-08-25;0550580544;
+C0187;client 187 sarl;ALGER;Restaurant;2022-06-28;0545654670;contact187@exemple.dz
+C0188;client 188 sarl;Béjaïa;Détaillant ;2021-12-06;0567110433;contact188@exemple.dz
+C0189;ETS CLIENT 189;oran;Détaillant ;2020-03-13;0511722298;contact189@exemple.dz
+C0190;client 190 sarl;Setif;restaurant;2020-08-22;0581953914;contact190@exemple.dz
+C0191;client 191 sarl;BEJAIA;Détaillant ;2021-09-20;0557461529;contact191@exemple.dz
+C0192;ETS CLIENT 192;CONSTANTINE;restaurant;2022-05-24;0526858140;contact192@exemple.dz
+C0193;client 193 sarl;Constantine;detaillant;2024-03-13;0520306323;contact193@exemple.dz
+C0194;client 194 sarl;ORAN;Détaillant;2023-06-13;0552591424;
+C0195;ETS CLIENT 195;alger;Détaillant ;2024-12-04;0560320643;contact195@exemple.dz
+C0196;client 196 sarl;Sétif;detaillant;2022-05-19;;contact196@exemple.dz
+C0197;client 197 sarl;BEJAIA;Détaillant ;2021-09-13;;contact197@exemple.dz
+C0198;ETS CLIENT 198;BEJAIA;GROSSISTE;2023-08-14;0529125704;contact198@exemple.dz
+C0199;client 199 sarl;Alger;GROSSISTE;2021-12-02;0567990812;contact199@exemple.dz
+C0200;client 200 sarl;Alger;Détaillant ;2024-10-28;0576731013;contact200@exemple.dz
+C0201;ETS CLIENT 201;ORAN;Détaillant ;2022-04-09;0545342162;contact201@exemple.dz
+C0202;client 202 sarl;BEJAIA;Grossiste;2022-11-07;0568644027;contact202@exemple.dz
+C0203;client 203 sarl;béjaia ;grossiste ;2024-08-20;0577149494;contact203@exemple.dz
+C0204;ETS CLIENT 204;Sétif;detaillant;2023-04-07;0531698329;contact204@exemple.dz
+C0205;client 205 sarl;Constantine;Détaillant ;2021-03-26;0591859023;contact205@exemple.dz
+C0206;client 206 sarl;Oran;detaillant;2024-02-12;0576827039;contact206@exemple.dz
+C0207;ETS CLIENT 207;Oran;Grossiste;2024-08-03;0593216103;contact207@exemple.dz
+C0208;client 208 sarl;Constantine;restaurant;2022-05-01;0579233136;contact208@exemple.dz
+C0209;client 209 sarl;Setif;Détaillant ;2024-01-29;0549692389;contact209@exemple.dz
+C0210;ETS CLIENT 210;Oran;Détaillant;2020-09-26;0540356565;
+C0211;client 211 sarl;Alger;Détaillant;2021-12-04;0530936774;
+C0212;client 212 sarl;alger;detaillant;2023-10-12;;contact212@exemple.dz
+C0213;ETS CLIENT 213;constantine;restaurant;2020-02-23;0520607077;contact213@exemple.dz
+C0214;client 214 sarl;Alger ;Détaillant;2023-12-20;0575783528;contact214@exemple.dz
+C0215;client 215 sarl;oran;grossiste ;2024-07-13;0527894477;contact215@exemple.dz
+C0216;ETS CLIENT 216;Alger;GROSSISTE;2024-11-25;0539515713;contact216@exemple.dz
+C0217;client 217 sarl;béjaia ;Détaillant ;2019-11-27;0590605699;contact217@exemple.dz
+C0218;client 218 sarl;BEJAIA;Détaillant ;2019-02-16;0585169854;contact218@exemple.dz
+C0219;ETS CLIENT 219;ALGER;restaurant;2021-03-08;0585932006;contact219@exemple.dz
+C0220;client 220 sarl;oran;grossiste ;2022-01-20;0522904975;contact220@exemple.dz
+C0221;client 221 sarl;ORAN;detaillant;2022-02-15;;contact221@exemple.dz
+C0222;ETS CLIENT 222;Alger ;detaillant;2019-05-15;0574416341;contact222@exemple.dz
+C0223;client 223 sarl;Béjaïa;Détaillant;2022-12-29;0531903612;contact223@exemple.dz
+C0224;client 224 sarl;SETIF;Détaillant;2021-12-27;;contact224@exemple.dz
+C0225;ETS CLIENT 225;BEJAIA;Restaurant;2021-01-29;0537387679;contact225@exemple.dz
+C0226;client 226 sarl;alger;Détaillant ;2021-11-16;0559417879;contact226@exemple.dz
+C0227;client 227 sarl;Setif;Restaurant;2022-05-23;0555698235;contact227@exemple.dz
+C0228;ETS CLIENT 228;alger;Détaillant ;2020-04-28;0556720339;contact228@exemple.dz
+C0229;client 229 sarl;alger;detaillant;2023-07-18;0582233138;contact229@exemple.dz
+C0230;client 230 sarl;Béjaïa;detaillant;2025-01-07;0520502301;contact230@exemple.dz
+C0231;ETS CLIENT 231;béjaia ;Restaurant;2021-02-22;0573851282;contact231@exemple.dz
+C0232;client 232 sarl;Oran;Grossiste;2023-06-23;0550850287;
+C0233;client 233 sarl;alger;restaurant;2019-05-16;0526728980;contact233@exemple.dz
+C0234;ETS CLIENT 234;CONSTANTINE;Détaillant ;2021-04-29;;contact234@exemple.dz
+C0235;client 235 sarl;ORAN;restaurant;2022-05-09;0510718004;contact235@exemple.dz
+C0236;client 236 sarl;BEJAIA;Détaillant ;2023-10-15;0557852714;contact236@exemple.dz
+C0237;ETS CLIENT 237;Alger;Détaillant ;2020-11-14;0584420028;contact237@exemple.dz
+C0238;client 238 sarl;Setif;detaillant;2020-06-26;;contact238@exemple.dz
+C0239;client 239 sarl;béjaia ;Détaillant;2024-03-20;0519185580;contact239@exemple.dz
+C0240;ETS CLIENT 240;BEJAIA;GROSSISTE;2020-09-18;0566634222;contact240@exemple.dz
+C0241;client 241 sarl;oran;Détaillant ;2020-04-03;0591111283;contact241@exemple.dz
+C0242;client 242 sarl;Oran;Restaurant;2023-09-05;0584856922;contact242@exemple.dz
+C0243;ETS CLIENT 243;alger;Restaurant;2019-07-15;0523270823;contact243@exemple.dz
+C0244;client 244 sarl;Oran;Détaillant;2023-03-10;0583835165;
+C0245;client 245 sarl;Alger;Détaillant;2021-10-25;0582420170;contact245@exemple.dz
+C0246;ETS CLIENT 246;oran;detaillant;2023-09-23;0581195939;contact246@exemple.dz
+C0247;client 247 sarl;Alger;Détaillant;2024-02-22;0598432813;contact247@exemple.dz
+C0248;client 248 sarl;ALGER;detaillant;2021-05-06;0525108183;contact248@exemple.dz
+C0249;ETS CLIENT 249;CONSTANTINE;Restaurant;2020-06-29;0576280773;contact249@exemple.dz
+C0250;client 250 sarl;Oran;Détaillant ;2020-02-11;0510231673;contact250@exemple.dz
+C0251;client 251 sarl;Alger;Détaillant ;2023-05-05;0548978093;contact251@exemple.dz
+C0252;ETS CLIENT 252;Constantine;Détaillant;2021-08-13;0562489851;contact252@exemple.dz
+C0253;client 253 sarl;ALGER;restaurant;2023-11-03;0558593957;contact253@exemple.dz
+C0254;client 254 sarl;SETIF;Détaillant;2023-06-18;0524150424;contact254@exemple.dz
+C0255;ETS CLIENT 255;ORAN;restaurant;2025-01-03;0523153196;contact255@exemple.dz
+C0256;client 256 sarl;alger;Restaurant;2024-02-05;0575641303;contact256@exemple.dz
+C0257;client 257 sarl;Oran;Détaillant;2024-07-08;0575404067;
+C0258;ETS CLIENT 258;Alger ;Détaillant;2024-06-07;0555367100;contact258@exemple.dz
+C0259;client 259 sarl;CONSTANTINE;grossiste ;2024-06-25;0565246932;contact259@exemple.dz
+C0260;client 260 sarl;Constantine;detaillant;2024-12-23;0516782415;
+C0261;ETS CLIENT 261;constantine;Restaurant;2021-04-11;;contact261@exemple.dz
+C0262;client 262 sarl;constantine;Détaillant;2020-11-20;0535431980;contact262@exemple.dz
+C0263;client 263 sarl;béjaia ;Détaillant ;2022-08-04;0578438600;contact263@exemple.dz
+C0264;ETS CLIENT 264;Setif;GROSSISTE;2024-01-18;0528362988;contact264@exemple.dz
+C0265;client 265 sarl;Oran;Détaillant ;2020-02-02;0579257469;contact265@exemple.dz
+C0266;client 266 sarl;Setif;Détaillant;2025-01-05;0550383036;contact266@exemple.dz
+C0267;ETS CLIENT 267;SETIF;restaurant;2020-10-25;0545839503;contact267@exemple.dz
+C0268;client 268 sarl;Bejaia;Détaillant ;2020-09-07;0566175035;contact268@exemple.dz
+C0269;client 269 sarl;Bejaia;Détaillant ;2021-05-23;0571837727;contact269@exemple.dz
+C0270;ETS CLIENT 270;Oran;grossiste ;2019-01-12;0567149537;
+C0271;client 271 sarl;Béjaïa;restaurant;2021-05-21;0555583956;contact271@exemple.dz
+C0272;client 272 sarl;oran;restaurant;2019-11-10;;contact272@exemple.dz
+C0273;ETS CLIENT 273;béjaia ;detaillant;2023-10-30;0523405383;contact273@exemple.dz
+C0274;client 274 sarl;alger;Détaillant ;2023-09-07;0538888631;contact274@exemple.dz
+C0275;client 275 sarl;Bejaia;restaurant;2022-10-23;0593786148;contact275@exemple.dz
+C0276;ETS CLIENT 276;Sétif;detaillant;2023-11-04;;contact276@exemple.dz
+C0277;client 277 sarl;Alger;restaurant;2019-12-29;0567423666;contact277@exemple.dz
+C0278;client 278 sarl;Alger;restaurant;2020-07-25;0532222613;contact278@exemple.dz
+C0279;ETS CLIENT 279;alger;restaurant;2024-04-24;0550635675;contact279@exemple.dz
+C0280;client 280 sarl;Alger ;Restaurant;2024-08-30;0574283725;contact280@exemple.dz
+C0281;client 281 sarl;Setif;Détaillant ;2020-08-17;0567891307;contact281@exemple.dz
+C0282;ETS CLIENT 282;BEJAIA;detaillant;2020-06-04;0578891263;contact282@exemple.dz
+C0283;client 283 sarl;ORAN;Détaillant;2019-09-12;0580545509;contact283@exemple.dz
+C0284;client 284 sarl;Oran;Détaillant;2023-05-22;0598720917;contact284@exemple.dz
+C0285;ETS CLIENT 285;CONSTANTINE;restaurant;2022-12-24;0550754278;contact285@exemple.dz
+C0286;client 286 sarl;Alger;grossiste ;2020-02-10;0593408812;
+C0287;client 287 sarl;Oran;detaillant;2022-09-15;0511238208;
+C0288;ETS CLIENT 288;Béjaïa;restaurant;2023-07-24;0574485871;contact288@exemple.dz
+C0289;client 289 sarl;CONSTANTINE;Restaurant;2020-10-16;0512553054;contact289@exemple.dz
+C0290;client 290 sarl;BEJAIA;detaillant;2019-04-22;;contact290@exemple.dz
+C0291;ETS CLIENT 291;alger;restaurant;2020-04-30;0593715793;contact291@exemple.dz
+C0292;client 292 sarl;BEJAIA;restaurant;2022-07-22;0515149887;contact292@exemple.dz
+C0293;client 293 sarl;Oran;detaillant;2022-02-11;0580929787;contact293@exemple.dz
+C0294;ETS CLIENT 294;Alger;Détaillant;2021-02-06;;
+C0295;client 295 sarl;CONSTANTINE;Détaillant ;2022-05-06;0585310305;contact295@exemple.dz
+C0296;client 296 sarl;Bejaia;Grossiste;2022-12-21;;contact296@exemple.dz
+C0297;ETS CLIENT 297;constantine;detaillant;2024-09-21;0549546458;contact297@exemple.dz
+C0298;client 298 sarl;Alger;Détaillant;2024-05-04;0560931924;contact298@exemple.dz
+C0299;client 299 sarl;ALGER;GROSSISTE;2023-02-10;0565696387;contact299@exemple.dz
+C0300;ETS CLIENT 300;SETIF;GROSSISTE;2020-12-09;0583542214;
+C0085;client 85 sarl;alger;detaillant;2025-06-01;0564496860;contact85@exemple.dz
+C0218;client 218 sarl;BEJAIA;Détaillant ;2025-06-01;0585169854;contact218@exemple.dz
+C0212;client 212 sarl;alger;detaillant;2025-06-01;;contact212@exemple.dz
+C0287;client 287 sarl;Oran;detaillant;2025-06-01;0511238208;
+C0032;client 32 sarl;Alger;Restaurant;2025-06-01;0594665254;contact32@exemple.dz
+C0135;ETS CLIENT 135;Bejaia;detaillant;2025-06-01;0566983238;contact135@exemple.dz
+C0202;client 202 sarl;BEJAIA;Grossiste;2025-06-01;0568644027;contact202@exemple.dz
+C0249;ETS CLIENT 249;CONSTANTINE;Restaurant;2025-06-01;0576280773;contact249@exemple.dz

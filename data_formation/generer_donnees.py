@@ -6,8 +6,12 @@ import pandas as pd
 
 rng = np.random.default_rng(2026)
 random.seed(2026)
-OUT = Path('data_formation')
-OUT.mkdir(exist_ok=True)
+ROOT = Path(__file__).resolve().parent
+
+def export(df, dossier, nom):
+    chemin = ROOT / dossier / nom
+    chemin.parent.mkdir(parents=True, exist_ok=True)
+    df.to_csv(chemin, sep=';', index=False, encoding='utf-8')
 
 # ---------- 1. AGENCES ----------
 agences = pd.DataFrame({
@@ -120,10 +124,11 @@ objectifs = pd.DataFrame([{'mois': m, 'code_agence': a, 'objectif_ca': round(b *
                           for m in mois for a, b in base.items()])
 
 # ---------- Export ----------
-agences.to_csv(OUT / 'agences.csv', sep=';', index=False, encoding='utf-8')
-produits.to_csv(OUT / 'produits.csv', sep=';', index=False, encoding='utf-8')
-clients.to_csv(OUT / 'clients_crm.csv', sep=';', index=False, encoding='utf-8')
-v.to_csv(OUT / 'ventes_erp.csv', sep=';', index=False, encoding='utf-8')
-objectifs.to_csv(OUT / 'objectifs.csv', sep=';', index=False, encoding='utf-8')
-for f in sorted(OUT.glob('*.csv')):
-    print(f.name, len(pd.read_csv(f, sep=';')))
+export(agences, 'referentiel', 'agences.csv')
+export(produits, 'referentiel', 'produits.csv')
+export(clients, 'crm', 'clients_crm.csv')
+export(v, 'erp', 'ventes_erp.csv')
+export(objectifs, 'controle_gestion', 'objectifs.csv')
+
+for f in sorted(ROOT.rglob('*.csv')):
+    print(f.relative_to(ROOT), len(pd.read_csv(f, sep=';')))

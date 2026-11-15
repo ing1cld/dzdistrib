@@ -1,0 +1,41 @@
+code_produit;designation;categorie;marque;cout_achat;prix_vente_ref;actif
+P001;Jus orange;Boissons;Marque A;140.2;201.6;Oui
+P002;Limonade;Boissons;Marque A;301.67;397.22;Oui
+P003;Eau minérale;Boissons;Marque D;238.75;359.49;Non
+P004;Soda cola;Boissons;Marque D;546.88;672.56;Non
+P005;Boisson gazeuse citron;Boissons;Marque D;405.56;520.83;Oui
+P006;Jus pomme;Boissons;Marque A;581.5;909.43;Non
+P007;Eau gazeuse;Boissons;Marque A;396.09;589.67;Oui
+P008;Thé glacé;Boissons;Marque C;328.49;499.85;Oui
+P009;Sirop grenadine;Boissons;Marque D;291.09;379.13;Oui
+P010;Boisson énergétique;Boissons;Marque D;195.62;244.89;Oui
+P011;Lait UHT;Produits laitiers;Marque B;334.46;449.48;Oui
+P012;Yaourt nature;Produits laitiers;Marque C;411.38;475.46;Oui
+P013;Fromage fondu;Produits laitiers;Marque C;290.71;382.09;Oui
+P014;Beurre;Produits laitiers;Marque A;149.42;211.83;Oui
+P015;Crème dessert;Produits laitiers;Marque A;283.78;364.66;Oui
+P016;Lait en poudre;Produits laitiers;Marque C;157.27;242.76;Oui
+P017;Camembert;Produits laitiers;Marque D;486.58;692.41;Oui
+P018;Yaourt aux fruits;Produits laitiers;Marque C;233.26;367.63;Oui
+P019;Lben;Produits laitiers;Marque C;355.49;478.04;Oui
+P020;Fromage râpé;Produits laitiers;Marque D;544.25;704.1;Oui
+P021;Huile de table;Épicerie;Marque A;429.76;554.91;Oui
+P022;Sucre;Épicerie;Marque D;186.47;273.25;Oui
+P023;Semoule;Épicerie;Marque D;167.62;229.96;Oui
+P024;Pâtes spaghetti;Épicerie;Marque D;364.82;450.56;Oui
+P025;Farine;Épicerie;Marque C;449.49;627.86;Oui
+P026;Café moulu;Épicerie;Marque D;388.04;511.23;Oui
+P027;Tomate concentrée;Épicerie;Marque A;275.31;377.91;Non
+P028;Couscous;Épicerie;Marque B;303.18;440.84;Oui
+P029;Lentilles;Épicerie;Marque A;363.22;485.74;Oui
+P030;Riz;Épicerie;Marque A;41.01;61.81;Non
+P031;Savon;Hygiène;Marque D;330.86;429.11;Oui
+P032;Shampoing;Hygiène;Marque B;319.97;381.42;Oui
+P033;Dentifrice;Hygiène;Marque B;546.63;872.08;Oui
+P034;Lessive;Hygiène;Marque D;72.89;95.57;Oui
+P035;Mouchoirs;Hygiène;Marque C;448.84;579.64;Oui
+P036;Gel douche;Hygiène;Marque D;357.55;478.21;Oui
+P037;Liquide vaisselle;Hygiène;Marque D;473.56;748.84;Oui
+P038;Papier toilette;Hygiène;Marque D;537.5;768.31;Oui
+P039;Eau de Javel;Hygiène;Marque C;129.75;204.51;Oui
+P040;Déodorant;Hygiène;Marque A;53.23;68.35;Oui

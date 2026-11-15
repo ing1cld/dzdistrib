@@ -6,7 +6,7 @@ Script de génération de données synthétiques ERP/CRM, avec des défauts de q
 
 ```bash
 python -m pip install -r requirements.txt
-python generer_donnees.py
+python data_formation/generer_donnees.py
 ```
 
-Les cinq fichiers sont créés dans `data_formation/` : `agences.csv`, `produits.csv`, `clients_crm.csv`, `ventes_erp.csv` et `objectifs.csv`. La génération est déterministe grâce à la graine `2026`.
+Les cinq fichiers sont créés dans `data_formation/`, classés par source (`erp/`, `crm/`, `referentiel/` et `controle_gestion/`). La génération est déterministe grâce à la graine `2026`.
